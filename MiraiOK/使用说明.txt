@@ -1,0 +1,15 @@
+第一步，安装java在线安装包.exe
+第二步，执行miraiOK.exe
+等待加载完成之后，关闭黑窗口，再执行一次miraiOK.exe
+执行完之后，输入  login QQ号码 密码  进行登录！
+
+移植酷Q插件请将插件放入
+\plugins\MiraiNative\plugins
+将配置文件放入（没有就创建）
+\plugins\MiraiNative\data
+
+mirai视频
+http://www.bilibili.com/video/BV18K4y1v7G9
+
+群管家视频
+https://www.bilibili.com/video/av96784152/

@@ -8,3 +8,5 @@ MiraiOK为之前用的项目，目前已没更新 但相关文件有更新，有
 
 based on Mirai OK
 and E language
+
+建议将MiraiOK更换为go-cqhttp https://github.com/Mrs4s/go-cqhttp
